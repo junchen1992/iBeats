@@ -6,7 +6,6 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 2022-11-22 10:10 | 200 |
 
 <!--END_SECTION:my_heart_rate-->
 
